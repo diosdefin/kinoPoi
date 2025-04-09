@@ -2,7 +2,7 @@
 import { ref, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 
-const API_KEY = 'NRJ4H93-BY142Z7-PJWMP19-KW78C1W'
+const API_KEY = '0J9YYFC-APA4FT2-G9K40HE-34JWBNM'
 const route = useRoute()
 const router = useRouter()
 const movie = ref(null)
